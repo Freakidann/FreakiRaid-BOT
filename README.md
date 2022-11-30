@@ -1,6 +1,6 @@
 # 🧨  MCPTool v2.4
 
-<h3> Pentesting tool for Minecraft </h3>
+<h3> FreakiRAID tool for Minecraft </h3>
 <br/>
 </br>
 <p align="center">
