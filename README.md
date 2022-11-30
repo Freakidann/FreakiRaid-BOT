@@ -7,10 +7,14 @@
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/Logo.png" title="MCPTool">
 </p>
 
+EN:
 ### This project was created for educational purposes and should not be used in environments without legal authorization.
+FR:
+### Ce projet a été créé à des fins éducatives et ne devrait pas être utilisé dans des environnements sans autorisation légale.
 
 # 🛠 Features
 
+EN:
 * See information of a server
 * View player information
 * Port scanning
@@ -24,39 +28,41 @@
 * Bot connect
 * Kick, kickall and block
 
+FR :
+* Voir les informations d’un serveur
+* Afficher les informations sur le lecteur
+* Balayage de port
+* QuboScanner
+* Balayage des nœuds d’un hébergement
+* Créer un élastique local
+* Commande d’écoute
+* Vérificateur
+* Afficher les mods sur ce serveur.
+* Attaque MITM (empoisonnement)
+* Connexion robot
+* Botter, botter et bloquer
+
 ## 💻 Supported operating systems:
 
 * ✅ Windows (8, 8.1, 10 and 11)
 * ✅ Linux
 
 # 🔧 Installation 
-
+EN/FR:
 ```bash
 # Install Nmap (https://nmap.org/)
 # Install Python 3 (https://www.python.org/)
 # Install NodeJS (https://nodejs.org/es/)
-
-# Clone the repository (Or download it from the web in the "Code button and download zip")
-$ git clone https://github.com/wrrulos/MCPTool
-
-# Go into the MCPTool folder
-$ cd MCPTool
-
-# Create an ngrok account (https://ngrok.com/)
-# Download Ngrok and connect your account with the token.
-# Move ngrok to the MCPTool folder.
-
-# Install the requirements
-$ python3 -m pip install -r requirements.txt
-$ npm install mineflayer
-$ npm install process
-
 ```
 
 # 🕹 Usage
 
 ```bash
-$ python3 MCPTool.py
+EN:
+Launch Launch.exe
+
+FR:
+Lancer Launch.exe
 ```
 
 ## 📝 Commands guide
@@ -232,35 +238,7 @@ $ clear
 $ help
 ```
 
+
 ## 📸 Screenshots
 
 <img src="https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/Load.png">
-
-## 🎞 Video 
-[![Watch the video](https://github.com/wrrulos/Imagenes-Github/blob/main/MCPTool/Load.png)](https://youtu.be/WW_LVJOBltc)
-
-## Licencia 
-
-MIT License
-
-Copyright (c) 2021 Pedro Vega
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
- 
